@@ -1,11 +1,10 @@
-# Leetnotes
+# Leet notes
 > “高山仰止，景行行止。”
 
 
-  - Feel Good? :+1:
-  - Feel Bad?  :shit:
-  - No progress?   :zzz:
-  - Mark your start date: :triangular_flag_on_post:
+Feel Good? :+1:
+Feel Bad?  :shit:
+No progress?   :zzz:
 
 Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
 
