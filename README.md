@@ -7,7 +7,6 @@ Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ct
 - Feel Bad?  :shit:
 - No progress?   :zzz:
 
-`test` `what
 
 
 ### 09/2018 `Goal: 50`
