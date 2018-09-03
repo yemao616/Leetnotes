@@ -2,9 +2,9 @@
 > “高山仰止，景行行止。”
 
 
-Feel Good? :+1:
-Feel Bad?  :shit:
-No progress?   :zzz:
+- Feel Good? :+1:
+- Feel Bad?  :shit:
+- No progress?   :zzz:
 
 Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
 
