@@ -1,12 +1,12 @@
 # Leet notes
 > “高山仰止，景行行止。”
 
+Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
 
 - Feel Good? :+1:
 - Feel Bad?  :shit:
 - No progress?   :zzz:
 
-Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
 
 
 ### 09/2018 `Goal: 50`
