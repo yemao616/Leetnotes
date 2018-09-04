@@ -3,7 +3,7 @@
 
 Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
 
-- Feel Good? :+1: :heart:
+- Feel Good? :+1: :star: :heart: 
 - Feel Bad?  :shit:
 - No progress?   :zzz:
 
