@@ -3,15 +3,14 @@
 
 Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
 
-- Feel Good? :+1:
+- Feel Good? :+1: :heart:
 - Feel Bad?  :shit:
 - No progress?   :zzz:
 
 
 
 
-
-### 09/2018 `Goal: 50`
+### 09/2018 `Goal: 50` 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 |     |     |     |     |     |     |  1  |
