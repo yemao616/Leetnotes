@@ -11,8 +11,6 @@ Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ct
 
 
 ### 09/2018 `Goal: 60` 
-=======
-### 09/2018 `Goal: 50` 
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
