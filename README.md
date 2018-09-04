@@ -10,7 +10,11 @@ Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ct
 
 
 
+<<<<<<< HEAD
 ### 09/2018 `Goal: 60` 
+=======
+### 09/2018 `Goal: 50` 
+>>>>>>> bcc609260db63b39c80da7f8d3edff8f000ce780
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 |     |     |     |     |     |     |  1  |
