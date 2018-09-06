@@ -3,13 +3,13 @@
 
 Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
 
-- Feel Good? :+1: :star: :heart: 
+- Feel Good? :+1: :star: 
 - Feel Bad?  :shit:
 - No progress?   :zzz:
 
 
 ### `Notes`
-- Try implement collections.Counter() by using dict
+- Try to implement collections.Counter() by using dict
 
 
 
