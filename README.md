@@ -8,9 +8,12 @@ Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ct
 - No progress?   :zzz:
 
 
+Notes
+- Try implement collections.Counter() by using dict
 
 
-### 09/2018 `Goal: 60` 
+
+### 09/2018 `Goal: 5/60` 
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
