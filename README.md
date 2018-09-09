@@ -10,15 +10,16 @@ Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ct
 
 ### `Notes`
 - Try to implement collections.Counter() by using dict
+- Learn from classic sorting algorithm: quick sort, merge sort, heap sort
 
 
 
-### 09/2018 `Goal: 8/60` 
+### 09/2018 `Goal: 9/60` 
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 |     |     |     |     |     |     |  1  |
-|  2  |  3 :triangular_flag_on_post: (+1) |  4 :star:(+3) |  5 :shit:(+1) |  6 :worried: (+1) |  7 :frowning: (+2) |  8  |
+|  2  |  3 :triangular_flag_on_post: (+1) |  4 :star:(+3) |  5 :shit:(+1) |  6 :worried: (+1) |  7 :frowning: (+2) |  8 :frowning:(+1) |
 |  9  | 10  | 11  | 12  | 13  | 14  | 15  |
 | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
