@@ -16,14 +16,14 @@ Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ct
 
 
 
-### 09/2018 `Goal: 16/60` 
+### 09/2018 `Goal: 19/60` 
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 |     |     |     |     |     |     |  1  |
 |  2  |  3 :triangular_flag_on_post: (+1) |  4 :star: (+3) |  5 :shit: (+1) |  6 :worried: (+1) |  7 :frowning: (+2) |  8 :frowning: (+1) |
 |  9 (什) | 10 (么)  | 11 (都) | 12 (没) | 13 (干) | 14 (的) | 15 (一) |
-| 16 (周) | 17 :mask: :zzz: (+1) | 18 :star2: (+2)  | 19 :sparkles: (+4) | 20  | 21  | 22  |
+| 16 (周) | 17 :mask: :zzz: (+1) | 18 :star2: (+2)  | 19 :sparkles: (+4) | 20 :star2: (+3) | 21  | 22  |
 | 23  | 24  | 25  | 26  | 27  | 28  | 29  |
 | 30  | 
 
