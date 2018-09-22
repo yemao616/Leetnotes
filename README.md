@@ -2,6 +2,7 @@
 > “高山仰止，景行行止。”
 
 Reference book: [Cracking the Coding Interview](http://www.hawstein.com/posts/ctci-solutions-contents.html)
+
 Complexity: [Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt), [Python wiki](https://wiki.python.org/moin/TimeComplexity)
 
 - Feel Good? :star: :star2: :sparkles:
