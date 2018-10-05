@@ -15,7 +15,7 @@ Complexity: [Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/
 - Learn from classic sorting algorithm: quick sort, merge sort, heap sort
 - Improve from standard solutions for better space complexity, e.g in-place algorithm (ie. two pointer)
 - Think about two pointer (fast and slow) for circle problem! With efficient implementation, O(N) + O(1)
-- Using 'Two Pointer' for length releated problem, but could also apply `Binary Search` for window size
+- Using `Two Pointer` for length releated problem, but could also apply `Binary Search` for window size
 
 
 
@@ -31,10 +31,10 @@ Complexity: [Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/
 | 30 :zzz: (+3) | 
 
 
-### 10/2018 `Goal: 6/60 十月冲鸭！`
+### 10/2018 `Goal: 10/60 十月冲鸭！`
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
-|     |  1 :cn: (+1) |  2 :zzz: |  3 :sparkles: (+5) |  4  |  5  |  6  |
+|     |  1 :cn: (+1) |  2 :zzz: |  3 :sparkles: (+5) |  4 :star2: (+4) |  5  |  6  |
 |  7  |  8  |  9  | 10  | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
