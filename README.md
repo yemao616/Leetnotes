@@ -31,11 +31,11 @@ Complexity: [Python Operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/
 | 30 :zzz: (+3) | 
 
 
-### 10/2018 `Goal: 17/60 十月冲鸭！`
+### 10/2018 `Goal: 21/60 十月冲鸭！`
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 |     |  1 :cn: (+1) |  2 :zzz: |  3 :sparkles: (+5) |  4 :star2: (+4) |  5 :frowning: (+1) |  6 :frowning: (+2) |
-|  7 :frowning: (+1) |  8 :star: (+3) |  9  | 10  | 11  | 12  | 13  |
+|  7 :frowning: (+1) |  8 :star: (+3) |  9 :broken_heart: | 10 :star: (+4) | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  | 31  | 
